@@ -1,17 +1,16 @@
-<!-- <font face="Times New Roman"><center><font size=6 face="Times New Roman">**Резюме стажёра**  
-</font></center>
-
+<!-- <font face="Times New Roman"><center><font size=8 face="Times New Roman">**Резюме**</font></center> -->
+<h1 align = "center">Резюме</h1>
 <!-- <img align="right" width = '130' height ='170' src ="D:\cv.JPG"/> -->
 <font size="5">
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;  
-
-<!-- **ФИО:** Бакытнур Ш.
-**Адрес проживания:** г.Нур-Султан -->
-<!-- **Телефон:** +7 (708) 309-03-81   -->
-<!-- **E-mail:** shuakbakytnur@gmail.com   -->
+  
+**ФИО:** Бакытнур Ш.  
+**Адрес проживания:** г.Нур-Султан  
+**E-mail:** shuakbakytnur@gmail.com 
+<!-- **Телефон:** +7 (708) 309-03-81-->
 <!-- **Github:** https://github.com/Bakytnur16 --> 
 
 <!-- **Цель:** Получение должности исполнительного помощника в GPI Group. -->

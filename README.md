@@ -13,10 +13,11 @@
 <!-- **Телефон:** +7 (708) 309-03-81-->
 <!-- **Github:** https://github.com/Bakytnur16 --> 
 
-<!-- **Цель:** Получение должности исполнительного помощника в GPI Group. -->
+<div align="justify">
+
 ## Образавание:
 <!-- *** -->
-*Международный Университет Астана* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Бакалавриат* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019-2022 (третий курс)*
+*Международный Университет Астана* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Бакалавриат*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019-2022 (третий курс)*
 + __факультет__: Информационных технологий и инженерий
 + __Специальность__: Вычислительная техника и программное обеспечение
 + __Средний балл успеваемости GPA__: 3.76/4.0
@@ -37,5 +38,6 @@
 -  Хороший командный дух.
 
 **Языки:** Англиский язык(C1) - продвинутый уровень, Казахский язык- в совершенстве (C2), Русский язык-элементарный уровень (A2),Китайсиий язык- в совершенстве (C2)
+</div>
 </font>
 </font>
